@@ -26,7 +26,7 @@ Requires Python 3.x.
 
 Run `pip install -r requirements.txt` to install the dependencies.
 
-- or Install them manually:
+or Install them manually:
 
 ```
 pip install tkinter
