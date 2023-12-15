@@ -10,6 +10,7 @@ This is a simple note taking app written in Python. It allows users to create, e
 - List all existing notes with their titles
 - Save notes to a JSON file for persistence
 - Load notes from the JSON file at startup
+- Light & Dark UI Note
 
 > [!NOTE]
 > I'll release another version of this Python Note app soon or later with more features such as searching, tagging, and more.
