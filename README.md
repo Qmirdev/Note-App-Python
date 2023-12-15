@@ -14,10 +14,11 @@ This is a simple note taking app written in Python. It allows users to create, e
 
 > [!NOTE]
 > I'll release another version of this Python Note app soon or later with more features such as :
-> Add support for formatting text content
-> Include features like tags, categories, search
-> Sync notes with cloud storage like Dropbox or Databases like mongodb atlas, firebase, etc.
-> Build installers for Mac, Windows, Linux
+
+- Add support for formatting text content
+- Include features like tags, categories, search
+- Sync notes with cloud storage like Dropbox or Databases like mongodb atlas, firebase, etc.
+- Build installers for Mac, Windows, Linux
 
 ## Implementation
 
