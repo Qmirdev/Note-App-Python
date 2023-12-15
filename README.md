@@ -2,7 +2,7 @@
 
 This is a simple note taking app written in Python. It allows users to create, edit, and delete text notes.
 
-**Preview of note.py** [Click me!](https://github.com/Qmirdev/Note-App-Python/blob/main/doc/notepy.mp4).
+**Preview of note.py** [Click me!](https://saffaridev.ir/projects/9-Note-App-Python/Notepy.mp4).
 
 ## Features
 
